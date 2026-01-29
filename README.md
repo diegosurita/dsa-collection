@@ -1,2 +1,3 @@
-# dsa-collection
-A collection of DSA problems with solutions
+# DSA Collection
+
+A collection of Data Structure & Algorithm problems with solutions.
